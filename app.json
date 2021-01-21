@@ -12,7 +12,7 @@
       "required": false
     }
   },
-  "repository": "https://github.com/eibex/reaction-light",
+  "repository": "https://github.com/NgenSal/reaction-light/",
   "stack": "container",
   "formation": {
     "worker": {
@@ -21,6 +21,5 @@
   },
   "keywords": [
     "discord"
-  ],
-  "website": "https://benji7425.io/discord-role-assigner"
+  ]
 }

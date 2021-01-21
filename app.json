@@ -1,5 +1,4 @@
 {
-
   "name": "Discord Role Assigner",
   "description": "Discord bot to allow users to join and leave configured roles using commands",
   "env": {
@@ -10,7 +9,8 @@
     "DB_STRING":{
       "description": "Your MongoDB connction string",
       "required": false
+    }
   },
-  "repository": "https://github.com/NgenSal/reaction-light/",
+  "repository": "https://github.com/eibex/reaction-light",
   "keywords": ["discord"]
 }

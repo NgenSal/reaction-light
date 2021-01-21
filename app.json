@@ -10,16 +10,7 @@
     "DB_STRING":{
       "description": "Your MongoDB connction string",
       "required": false
-    }
   },
   "repository": "https://github.com/NgenSal/reaction-light/",
-  "stack": "container",
-  "formation": {
-    "worker": {
-      "quantity": 1
-    }
-  },
-  "keywords": [
-    "discord"
-  ]
+  "keywords": ["discord"]
 }
